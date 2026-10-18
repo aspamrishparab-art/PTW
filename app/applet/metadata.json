@@ -1,0 +1,6 @@
+{
+  "name": "Himcast Permit Safety",
+  "description": "Safety Permit-to-Work system for Himgiri Castings with Room database, status badges, supervisor search, multi-tier digital signatures, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <path
+        android:fillColor="#0B57D0"
+        android:pathData="M60,10 L105,35 L105,85 L60,110 L15,85 L15,35 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,22 L93,42 L93,78 L60,98 L27,78 L27,42 Z" />
+    <path
+        android:fillColor="#E8710A"
+        android:pathData="M60,32 L83,48 L83,72 L60,88 L37,72 L37,48 Z" />
+    <!-- Foundry Crucible / Mountain "H" motif -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,46 L54,46 L54,57 L66,57 L66,46 L72,46 L72,74 L66,74 L66,63 L54,63 L54,74 L48,74 Z" />
+    <!-- Safety Shield Star -->
+    <path
+        android:fillColor="#0B57D0"
+        android:pathData="M60,38 L62,43 L67,43 L63,46 L65,51 L60,48 L55,51 L57,46 L53,43 L58,43 Z" />
+</vector>
